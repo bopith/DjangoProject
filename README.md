@@ -1,7 +1,7 @@
 # Django Project
 ## Overview
 
-This is a simple Django web application that provides a basic homepage and a to-do list functionality. Users can view the homepage and add, update, and mark tasks as completed on their to-do list.
+This simple Django web application provides a basic homepage and a to-do list. Users can view the homepage and their to-do list.
 
 - Homepage: Visit http://localhost:8000/ to access the homepage.
 - To-Do List: Visit http://localhost:8000/todos
