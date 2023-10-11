@@ -7,6 +7,6 @@ This is a simple Django web application that provides a basic homepage and a to-
 - To-Do List: Visit http://localhost:8000/todos
 
 ## Technologies Used
-Django - The web framework for Python
-HTML/CSS - For front-end development
-SQLite - The default database used for this project
+- Django: The web framework for Python
+- HTML/CSS: For front-end development
+- SQLite: The default database used for this project
